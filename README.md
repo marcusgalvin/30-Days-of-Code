@@ -6,3 +6,6 @@ April 5th 2019
 
 April 7 2019
 - Solved Day 0: Hello World
+
+April 8 2019
+- Solved Day 11: 2D Arrays
