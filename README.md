@@ -9,3 +9,6 @@ April 7 2019
 
 April 8 2019
 - Solved Day 11: 2D Arrays
+
+April 11 2019
+- Solved Day 3: Conditional Statements
