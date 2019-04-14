@@ -12,3 +12,9 @@ April 8 2019
 
 April 11 2019
 - Solved Day 3: Conditional Statements
+
+April 13 2019
+- Solved Day 3: Arrays
+
+April 14 2019
+- Solved Day 4: Class vs Instance
