@@ -18,3 +18,6 @@ April 13 2019
 
 April 14 2019
 - Solved Day 4: Class vs Instance
+
+April 15 2019
+- Solved Day 12: Inheritance
