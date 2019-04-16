@@ -21,3 +21,7 @@ April 14 2019
 
 April 15 2019
 - Solved Day 12: Inheritance
+
+April 15 2019
+- Solved Day 13 : Inheritance
+- Solved Day 2: Data Types
