@@ -28,3 +28,6 @@ April 15 2019
 -
 April 19 2019
 - Solved Day 6: Review
+
+April 20 2019 
+- Solved Day 8: Dictionaries and Maps
